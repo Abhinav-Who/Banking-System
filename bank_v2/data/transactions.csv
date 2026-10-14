@@ -1,0 +1,2 @@
+# id,accountNumber,timestamp,type,amount,balanceAfter,referenceAccount,performedBy
+9ced5f79-3032-4d59-847c-3cbf8ac32f7e,4402187555,2026-10-11T01:36:28,OPENING_DEPOSIT,1000.00,1000.00,,efgh

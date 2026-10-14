@@ -1,0 +1,4 @@
+# username,saltBase64,passwordHashBase64,iterations,mustChangePassword,admin,active,createdAt
+admin,zYRtI3zDrfJvnat3J8ErmA==,ZTShQv52pcUTKISVCAjnFzIs/aX6+iuJBBaMACEi08s=,210000,false,true,true,2026-10-11T01:26:56
+abcd,xqrlxbpvq6h1sLaZBSPBmQ==,iPXts+lz9/qOi55aANrDUY0f47OByWEdqHVTa/IOsP8=,210000,false,true,true,2026-10-11T01:29:41
+efgh,E9MRIKTvltsRBME2h4ETbA==,IcW1/LrHmE4+ztTbGfUiQkKZaSt3tY7DpkEdjXkr9O8=,210000,false,false,true,2026-10-11T01:31:04
